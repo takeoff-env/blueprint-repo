@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "blueprints": [{
+    "name": "Default Blueprint",
+    "repo": "https://github.com/takeoff-env/takeoff-blueprint-basic.git"
+  }]
+}
